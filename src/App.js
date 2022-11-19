@@ -6,10 +6,10 @@ import {
   VideoDetail,
   ChannelDetail,
   SearchFeed,
-} from './components';
+} from 'components';
 // styles
 import 'normalize.css';
-import './App.css';
+import 'App.css';
 // Roboto font
 import '@fontsource/roboto/300.css';
 import '@fontsource/roboto/400.css';
