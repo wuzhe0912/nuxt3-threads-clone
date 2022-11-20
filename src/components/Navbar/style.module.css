@@ -8,3 +8,9 @@
   outline: none;
   width: 350px;
 }
+
+@media screen and (max-width: 600px) {
+  .searchBar {
+    width: 200px;
+  }
+}
