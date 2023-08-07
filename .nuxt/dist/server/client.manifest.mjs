@@ -1,0 +1,1 @@
+export { default } from "file:///Volumes/SSD/Salary-1000+/Nuxt3/nuxt3-threads-clone/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

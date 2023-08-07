@@ -1,0 +1,15 @@
+{
+  "@vite/client": {
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/Volumes/SSD/Salary-1000+/Nuxt3/nuxt3-threads-clone/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "isEntry": true,
+    "file": "/Volumes/SSD/Salary-1000+/Nuxt3/nuxt3-threads-clone/node_modules/nuxt/dist/app/entry.js"
+  }
+}
