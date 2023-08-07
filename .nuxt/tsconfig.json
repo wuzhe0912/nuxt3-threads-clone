@@ -59,6 +59,9 @@
       "vue-demi": [
         "/Volumes/SSD/Salary-1000+/Nuxt3/nuxt3-threads-clone/node_modules/nuxt/dist/app/compat/vue-demi"
       ],
+      "pinia": [
+        "/Volumes/SSD/Salary-1000+/Nuxt3/nuxt3-threads-clone/node_modules/pinia/dist/pinia"
+      ],
       "#vue-router": [
         "/Volumes/SSD/Salary-1000+/Nuxt3/nuxt3-threads-clone/.nuxt/vue-router"
       ],

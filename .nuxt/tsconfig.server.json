@@ -49,6 +49,9 @@
       ],
       "public/*": [
         "/Volumes/SSD/Salary-1000+/Nuxt3/nuxt3-threads-clone/public/*"
+      ],
+      "pinia": [
+        "/Volumes/SSD/Salary-1000+/Nuxt3/nuxt3-threads-clone/node_modules/pinia/dist/pinia"
       ]
     }
   },
